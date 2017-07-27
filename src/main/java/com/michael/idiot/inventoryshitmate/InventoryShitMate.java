@@ -1,6 +1,6 @@
-package com.michael.idiot;
+package com.michael.idiot.inventoryshitmate;
 
-import com.michael.idiot.events.InventoryHandler;
+import com.michael.idiot.inventoryshitmate.events.InventoryHandler;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class InventoryShitMate extends JavaPlugin {
