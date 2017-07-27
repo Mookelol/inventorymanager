@@ -9,5 +9,6 @@ public class InventoryShitMate extends JavaPlugin {
     }
 
     public void onDisable() {
+        getServer().getLogger().info("Fuck Mooke");
     }
 }
