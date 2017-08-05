@@ -2,3 +2,15 @@ name: InventoryManager
 version: 0.1
 main: com.michael.idiot.inventoryshitmate.InventoryShitMate
 author: Mooke
+
+permissions:
+  shitinv.bypass.inventory:
+    default: false
+  shitinv.access.helmet:
+    default: true
+  shitinv.access.chestplate:
+    default: true
+  shitinv.access.leggings:
+    default: true
+  shitinv.access.boots:
+    default: true
