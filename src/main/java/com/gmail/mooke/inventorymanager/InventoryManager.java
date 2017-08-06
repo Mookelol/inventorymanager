@@ -1,6 +1,6 @@
-package com.michael.idiot.inventorymanager;
+package com.gmail.mooke.inventorymanager;
 
-import com.michael.idiot.inventorymanager.events.InventoryHandler;
+import com.gmail.mooke.inventorymanager.events.InventoryHandler;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**

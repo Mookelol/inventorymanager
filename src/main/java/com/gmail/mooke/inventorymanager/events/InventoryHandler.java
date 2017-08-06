@@ -1,7 +1,7 @@
-package com.michael.idiot.inventorymanager.events;
+package com.gmail.mooke.inventorymanager.events;
 
-import com.michael.idiot.inventorymanager.InventoryManager;
-import com.michael.idiot.inventorymanager.Ref;
+import com.gmail.mooke.inventorymanager.InventoryManager;
+import com.gmail.mooke.inventorymanager.Ref;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

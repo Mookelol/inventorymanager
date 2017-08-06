@@ -1,4 +1,4 @@
-package com.michael.idiot.inventorymanager;
+package com.gmail.mooke.inventorymanager;
 
 /**
  * The reference class - A bunch of string variables for standardised referencing. Mainly for permissions and common text.
