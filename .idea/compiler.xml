@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="inventorymanager" />
         <module name="inventoryshitmate" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="inventorymanager" target="1.5" />
       <module name="inventoryshitmate" target="1.5" />
     </bytecodeTargetLevel>
   </component>

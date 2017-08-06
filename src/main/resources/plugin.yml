@@ -1,6 +1,6 @@
 name: InventoryManager
-version: 0.1
-main: com.michael.idiot.inventoryshitmate.InventoryShitMate
+version: 1.0
+main: com.gmail.mooke.inventorymanager.InventoryManager
 author: Mooke
 
 permissions:
